@@ -1,0 +1,52 @@
+.navigation{
+    background-color:black;
+    padding:0.5rem;
+    display:block;
+    border-bottom-left-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+       
+}
+body{
+    margin:0rem;
+}
+
+.link{
+    text-decoration:none;
+    color:white;
+}
+
+.list-item-inline{
+
+    display:inline;
+    padding:0rem 15rem;
+}
+
+.container-center{
+    
+    text-align: center;
+    margin: auto;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translateX(-50%) translateY(-50%);
+   
+    
+}
+.section{
+    background-color:black;
+    display:block;
+    padding: 0.5rem 1rem ;
+    border-radius: 0.5rem;
+    color:white;
+
+}
+
+.btn{
+    background-color:white;
+    color:black;
+    padding:0.5rem;
+    border-color: black;
+    border-radius:0.5rem;
+    margin:1.5rem;
+    cursor:pointer;
+}
